@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: rgb(0, 115, 168);
+    font-size: 100px;
+}
+body{
+    background-color: #b0f3ff;
+    text-align: center;
+    
+}
+.next{
+    font-size: 50px;
+    color: blue;
+    font-family: cursive;
+    background-color: aqua;
+}
+#family_member_name{
+    font-size: 40px;
+}
+#family_member_image{
+    width: 200px;
+    height: 400px;
+}
